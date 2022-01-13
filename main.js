@@ -22,3 +22,4 @@ const htmlOutput = (computerObject) => {
 }
 
 console.log(htmlOutput(computer))
+
